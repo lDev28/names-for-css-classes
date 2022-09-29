@@ -1,7 +1,7 @@
 <h1 align="center">names-for-css-classes</h1>
 
 <div align="center">
-   You should use them to creating CSS classes. I hope this will helpfull to you...
+I hope this will helpfull to you...
 </div>
 
 <div align="center">
